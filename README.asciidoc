@@ -1,0 +1,4 @@
+Potient blog
+============
+
+This repository is for my blog at link:https://potient.com/[potient.com] blog.

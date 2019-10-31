@@ -1,0 +1,19 @@
+{
+  "name": "potient-blog",
+  "version": "1.0.0",
+  "description": "Blog for potient.com",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wardlem/potient-blog.git"
+  },
+  "author": "Mark Wardle <mark@potient.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wardlem/potient-blog/issues"
+  },
+  "homepage": "https://github.com/wardlem/potient-blog#readme"
+}
